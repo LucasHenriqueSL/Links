@@ -1,3 +1,7 @@
+<p align="center">
+  <h1 align="center">Guia de Programação</h1>
+</p>
+
 ## :dart: O guia para alavancar a sua carreira
 
 Abaixo você encontrará conteúdos para te guiar e ajudar a se tornar um desenvolvedor ou se especializar em qualquer área de TI. Caso você já atue como desenvolvedor ou em outra área, confira o repositório para descobrir novas ferramentas para o seu dia-a-dia, caminhos possíveis e as tecnologias para incorporar na sua stack com foco em se tornar um profissional atualizado e diferenciado em front-end, back-end, dentre outras. 
